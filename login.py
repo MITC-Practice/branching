@@ -2,5 +2,3 @@
 # updated login.py in add-login branch
 
 # This line is added in the main branch
-
-# trial for main branch protection
