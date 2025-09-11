@@ -5,3 +5,6 @@
 
 # trial for main branch protection, will create a PR
 
+# staged for commit
+
+# another line for staging area but wont be added to stage
